@@ -1,7 +1,7 @@
 {
-    "name": "angular-sailsjs-boilerplate",
+    "name": "txprintco.-angular-app",
     "version": "1.0.0",
-    "description": "Example boilerplate application for AngularJS + Sails.js with separated back- and frontend.",
+    "description": "TX Print Co. Angular Application",
     "keywords": [
         "sails.js",
         "backend",
@@ -29,6 +29,6 @@
     "bugs": {
         "url": "https://github.com/tarlepp/angular-sailsjs-boilerplate/issues"
     },
-    "author": "Tarmo Leppänen",
+    "author": "Tarmo Leppäneni and Asad Hasan",
     "license": "MIT"
 }
